@@ -1,0 +1,3 @@
+Reading data from the file E:\PROJECT_PRACTICES\NODE JS/Files/input.txt:  
+ This is the simple text file i read through NODE JS.. 
+ Date created: Wed Sep 25 2024 17:20:06 GMT-0700 (Pacific Daylight Time)
