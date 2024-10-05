@@ -7,8 +7,8 @@ app.get("/", (req, res) => {
   res.send(
     `
         <h1 style='color:blue;background-color:#ffaaff'>Response from express</h1>
-        ${JSON.stringify({ name: "Mohsin", age: 21 })}
-        <p style="color:green;background-color:yellow;text-align:center">Currently Totally Out Of Bound</p>
+        ${JSON.stringify({ name: "Mohsin", age: 21,Gender:"Male" })}
+        <p style="color:green;background-color:yellow;text-align:center,font-size:40px">Currently Totally Out Of Bound</p>
         `
   );
 });
